@@ -8,7 +8,11 @@ export default {
       secondary: "#444444",
       accent: "#FBFFE3",
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        akshar: ["Akshar", "sans-serif"],
+      },
+    },
   },
   plugins: [],
 };
