@@ -6,6 +6,6 @@
 
 @layer base {
   html {
-    @apply bg-background;
+    @apply bg-background font-akshar;
   }
 }
