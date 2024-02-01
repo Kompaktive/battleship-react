@@ -1,4 +1,4 @@
-const Battleship = ({ className }: { className?: string }) => {
+const BattleshipIcon = ({ className }: { className?: string }) => {
   return (
     <svg
       width="161"
@@ -14,4 +14,4 @@ const Battleship = ({ className }: { className?: string }) => {
   );
 };
 
-export default Battleship;
+export default BattleshipIcon;

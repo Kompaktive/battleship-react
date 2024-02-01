@@ -1,4 +1,4 @@
-const Destroyer = ({ className }: { className?: string }) => {
+const DestroyerIcon = ({ className }: { className?: string }) => {
   return (
     <svg
       width="120"
@@ -13,4 +13,4 @@ const Destroyer = ({ className }: { className?: string }) => {
   );
 };
 
-export default Destroyer;
+export default DestroyerIcon;

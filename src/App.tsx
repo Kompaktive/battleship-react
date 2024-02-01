@@ -1,10 +1,10 @@
 import Button from "./components/Button";
-import Battleship from "./components/icons/Battleship";
+import BattleshipIcon from "./components/icons/BattleshipIcon";
 
 function App() {
   return (
     <main>
-      <Battleship className="fill-primary" />
+      <BattleshipIcon className="fill-primary" />
 
       <ul role="menu">
         <li role="menuitem">

@@ -1,4 +1,4 @@
-const Carrier = ({ className }: { className?: string }) => {
+const CarrierIcon = ({ className }: { className?: string }) => {
   return (
     <svg
       width="200"
@@ -17,4 +17,4 @@ const Carrier = ({ className }: { className?: string }) => {
   );
 };
 
-export default Carrier;
+export default CarrierIcon;

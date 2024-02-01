@@ -1,4 +1,4 @@
-const PatrolBoat = ({ className }: { className?: string }) => {
+const PatrolBoatIcon = ({ className }: { className?: string }) => {
   return (
     <svg
       width="80"
@@ -17,4 +17,4 @@ const PatrolBoat = ({ className }: { className?: string }) => {
   );
 };
 
-export default PatrolBoat;
+export default PatrolBoatIcon;

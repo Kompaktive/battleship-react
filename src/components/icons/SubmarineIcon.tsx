@@ -1,4 +1,4 @@
-const Submarine = ({ className }: { className?: string }) => {
+const SubmarineIcon = ({ className }: { className?: string }) => {
   return (
     <svg
       width="120"
@@ -13,4 +13,4 @@ const Submarine = ({ className }: { className?: string }) => {
   );
 };
 
-export default Submarine;
+export default SubmarineIcon;
