@@ -17,7 +17,7 @@ const Button = ({
   return (
     <button
       {...props}
-      className={`${!!className ? `${className} ` : ""}text-accent select-none text-4xl font-medium hover:text-primary`}
+      className={`${!!className ? `${className} ` : ""}text-accent select-none text-4xl font-medium transition duration-100 hover:text-primary`}
     >
       {children}
     </button>
