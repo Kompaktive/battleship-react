@@ -2,7 +2,7 @@ const BattleshipIcon = ({ className }: { className?: string }) => {
   return (
     <svg
       width="161"
-      height="40"
+      height="100%"
       viewBox="0 0 161 40"
       className={className}
       fill="black"

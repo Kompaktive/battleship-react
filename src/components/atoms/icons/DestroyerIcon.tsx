@@ -2,7 +2,7 @@ const DestroyerIcon = ({ className }: { className?: string }) => {
   return (
     <svg
       width="120"
-      height="26"
+      height="100%"
       viewBox="0 0 120 26"
       className={className}
       fill="black"

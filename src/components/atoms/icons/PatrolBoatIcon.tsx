@@ -2,7 +2,7 @@ const PatrolBoatIcon = ({ className }: { className?: string }) => {
   return (
     <svg
       width="80"
-      height="29"
+      height="100%"
       viewBox="0 0 80 29"
       className={className}
       fill="black"

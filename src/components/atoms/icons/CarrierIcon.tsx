@@ -2,7 +2,7 @@ const CarrierIcon = ({ className }: { className?: string }) => {
   return (
     <svg
       width="200"
-      height="58"
+      height="100%"
       viewBox="0 0 200 58"
       className={className}
       fill="black"

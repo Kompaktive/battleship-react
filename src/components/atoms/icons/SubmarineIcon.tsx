@@ -2,7 +2,7 @@ const SubmarineIcon = ({ className }: { className?: string }) => {
   return (
     <svg
       width="120"
-      height="22"
+      height="100%"
       viewBox="0 0 120 22"
       className={className}
       fill="black"
